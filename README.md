@@ -1,9 +1,7 @@
 안녕하세요.
 프론트엔드 개발자 김경배입니다.
+
 ⚡ 축구 시청과 넷플릭스를 통해 영화보는 것을 좋아합니다.
-
-💬 프레임워크를 올바르게 사용하기 위해 자바스크립트 공부도 꾸준히 진행하고있습니다.
-
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frudqo14&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
