@@ -1,8 +1,7 @@
 안녕하세요.
 프론트엔드 개발자 김경배입니다.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudqo14)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudqo14&layout=compact)](https://github.com/rudqo14/README.md)
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-flat&logo=React&logoColor=white"/>   </a>
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-flat&logo=JavaScript&logoColor=black"/>   </a>
